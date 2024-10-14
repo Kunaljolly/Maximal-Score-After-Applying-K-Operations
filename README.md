@@ -37,5 +37,6 @@ The final score is 10 + 4 + 3 = 17.
 
 Constraints:
 
-1 <= nums.length, k <= 105
-1 <= nums[i] <= 109
+
+1 <= nums.length, k <= 10^5
+1 <= nums[i] <= 10^9
