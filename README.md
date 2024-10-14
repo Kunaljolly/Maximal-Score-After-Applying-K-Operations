@@ -21,6 +21,9 @@ Example 1:
 Input: nums = [10,10,10,10,10], k = 5
 Output: 50
 Explanation: Apply the operation to each array element exactly once. The final score is 10 + 10 + 10 + 10 + 10 = 50.
+
+
+
 Example 2:
 
 Input: nums = [1,10,3,3,3], k = 3
